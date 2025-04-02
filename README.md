@@ -25,7 +25,7 @@ Este es un proyecto de **Gestión de Usuarios** hecho con **React**, **Redux Too
 Desde una terminal o cmd, sigue estos pasos:
 
 ```bash
-git clone https://github.com/tu-usuario/redux-crud.git
+git clone https://github.com/Facundo-Chiappero/redux-crud.git
 cd redux-crud
 npm install
 npm run dev
@@ -68,7 +68,7 @@ This is a **User Management** project built with **React**, **Redux Toolkit**, a
 From a terminal or cmd, follow these steps:
 
 ```bash
-git clone https://github.com/your-username/redux-crud.git
+git clone https://github.com/Facundo-Chiappero/redux-crud.git
 cd redux-crud
 npm install
 npm run dev
